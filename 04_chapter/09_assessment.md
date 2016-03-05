@@ -16,8 +16,18 @@ In Unit 4 we covered some game-changing concepts (pun intended). For example, ca
 
 1) Create an `if else` statement
 
-```
+```js
 // `if` statement should consist of a boolean checking for equality between your created variables
+if (cardTwo === cardsThree) {
+
+} else {
+
+}
+```
+
+2) Add `alert`s to appropriate conditional blocks
+
+```js
 // if the conditional is met, run the expression: alert("You found a match!")
 if (cardTwo === cardsThree) {
 
