@@ -58,5 +58,8 @@
 	* [Quiz](06_chapter/09_quiz.md)
 	* [Cheat Sheet](06_chapter/11_cheatsheet.md)
 	* [Unit 6 Homework](06_chapter/12_assessment.md)
+* [Intro to HTML & CSS](07_chapter/02_lesson.md)
+	* [Exercise](07_chapter/03_exercise.md)
+	* [Quiz](07_chapter/04_quiz.md)
 * [Exercise Solutions](exercise-solutions.md)
 * [Glossary](glossary.md)
