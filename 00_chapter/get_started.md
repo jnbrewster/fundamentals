@@ -22,6 +22,6 @@ page asks for your team domain, and join the [#wdi-fundamentals](https://ga-stud
 ## Feedback
 
 We need your help to improve this material!  Please don't hesitate to reach out
-by emailing us at [AskImmersives@generalassemb.ly](AskImmersives@generalassemb.ly).
+by emailing us at [AskImmersives@generalassemb.ly](mailto: AskImmersives@generalassemb.ly).
 
 [Let's get started!](../01_chapter/intro.md)
