@@ -53,7 +53,7 @@
   * An associative array generates an enduring relationship between a reference (called a **key**) and the value that it refers to. Each key-value pairing is totally independent of every other pairing.
 ### Associative Arrays in JavaScript
   * An associative array can be defined by enclosing a list of key-value pairs in curly braces (`{...}`). Each key-value pair is written as `someKey : someValue`, and each pair is separated by commas.
-  * To retrieve the value that's tied to a particular key, add `[`*key*`]` to the end of the associative array. e.g. <code>myassociativeArray['myKey']</code>
+  * To retrieve the value that's tied to a particular key, add `[`*key*`]` to the end of the associative array. e.g. <code>myAssociativeArray['myKey']</code>
   * To edit the value that's tied to a particular key, assign a value just like you would for an ordinary array. e.g. <code>myAssociativeArray['myKey'] = 'aValue'</code>
   * Adding a new key-value pair to an associative array is easy - it looks just like an assignment operation. e.g. <code>myAssociativeArray['someNewKey'] = 'someNewValue'</code>
   * Nesting for associative arrays works *exactly* like it does for ordinary arrays.

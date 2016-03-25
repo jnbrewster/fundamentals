@@ -43,7 +43,7 @@ Command | Description
 ---|---
 `pwd -options` | Prints the working directory; returns the absolute path name of the current directory.
 `ls [-options] [path/to/directory]` | Lists directory contents.
-`cd [-options] [path/to/directory]` | Changes the current working directory to the specificed directory.
+`cd [-options] [path/to/directory]` | Changes the current working directory to the specified directory.
 `mkdir [-options] [path/to/directory]` | Makes a new directory
 `rm -r [path/to/file] [path/to/file] ... ` | Removes directories or files permanently
 `mv [-options] [path/to/file] [path/to/directory]` | Moves directories or files to a new local
